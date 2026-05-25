@@ -20,3 +20,8 @@ Thumbs.db
 # App
 _duplicates/
 *.fp
+
+# PyInstaller
+build/
+*.spec
+*.exe
