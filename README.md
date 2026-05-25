@@ -1,6 +1,6 @@
 # Music Deduplicator
 
-> **Создано с помощью AI** — весь код написан через [OpenCode](https://github.com/anomalyco/opencode) (Claude).
+> **Создано с помощью AI** — весь код написан через [OpenCode](https://github.com/anomalyco/opencode) (DeepSeek).
 
 GUI-приложение для поиска и удаления дубликатов MP3-файлов. Находит одинаковые песни и оставляет версию с лучшим качеством (наивысшим битрейтом).
 

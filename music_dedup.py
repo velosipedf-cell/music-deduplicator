@@ -1,4 +1,4 @@
-# Music Deduplicator — создано с помощью AI (OpenCode / Claude)
+# Music Deduplicator — создано с помощью AI (OpenCode / DeepSeek)
 # https://github.com/velosipedf-cell/music-deduplicator
 
 import os
