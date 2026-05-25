@@ -1,3 +1,6 @@
+# Music Deduplicator (CLI) — создано с помощью AI (OpenCode / Claude)
+# https://github.com/velosipedf-cell/music-deduplicator
+
 import os
 import sys
 import re

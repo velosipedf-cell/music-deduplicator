@@ -1,3 +1,6 @@
+# Music Deduplicator — создано с помощью AI (OpenCode / Claude)
+# https://github.com/velosipedf-cell/music-deduplicator
+
 import os
 import re
 import json
